@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervpdate",
+        "uuid": 33041547,
+        "checksum": "55i1no"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
